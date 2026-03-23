@@ -46,10 +46,12 @@ Insight Generation – Identified trends influencing bike purchases.
 Visualization Enhancement – Improved layout, labels, and readability for better storytelling.
 
 
-#as Dash Board 
+#Dash Board 
+
 <img width="1031" height="759" alt="Screenshot 2026-03-23 040117" src="https://github.com/user-attachments/assets/177b0d87-ef67-456e-92ce-f6c287b2ccdc" />
 
 #PROJECT INSIGHT
+
 Customers with higher average income are more likely to purchase bikes.
 Middle-aged individuals show the highest purchase rate compared to other age groups.
 Shorter commute distances are associated with higher bike purchases.
@@ -59,6 +61,7 @@ Home ownership and marital status also influence purchasing patterns, revealing 
 
 
 #CONCLUSION
+
 The analysis shows that income, age, and commute distance are key drivers of bike purchases. Customers with higher income, shorter commutes, and fewer cars are more inclined to buy bikes. These insights can help businesses better target their ideal customers and improve marketing and sales strategies.
 
 
