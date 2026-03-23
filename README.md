@@ -32,9 +32,22 @@ Dash Board interaction :
 #Process
 
 Data Collection – Obtained the bike sales dataset.
+
 Data Cleaning – Handled missing values, removed duplicates, and formatted fields in Excel.
+
 Data Transformation – Created new columns (e.g., age brackets, commute groups).
+
 Data Analysis – Explored relationships between income, age, gender, and purchases.
+
 Dashboard Creation – Built interactive charts and slicers (filters).
+
 Insight Generation – Identified trends influencing bike purchases.
+
 Visualization Enhancement – Improved layout, labels, and readability for better storytelling.
+
+
+#as Dash Board 
+<img width="1031" height="759" alt="Screenshot 2026-03-23 040117" src="https://github.com/user-attachments/assets/177b0d87-ef67-456e-92ce-f6c287b2ccdc" />
+
+
+
