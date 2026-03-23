@@ -10,7 +10,6 @@ data set used :
 as Questions (KPIS):
 
 -Total Bikes Purchased – Number of customers who bought bikes.
-
 -Purchase Rate (%) – Percentage of customers who purchased bikes.
 
 -Average Income per Customer – Income comparison between buyers and non-buyers.
