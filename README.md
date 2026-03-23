@@ -7,7 +7,7 @@ To analyze bike sales data and identify key factors influencing customer purchas
 # data set used :
 -<a href="https://github.com/zulusanele626-byte/Data-Analyst-DashBoard/blob/main/my%20own%20project.xlsx">Data Set<a/>
 
- #as Questions (KPIS):
+ # as Questions (KPIS):
 
 -Total Bikes Purchased – Number of customers who bought bikes.
 
