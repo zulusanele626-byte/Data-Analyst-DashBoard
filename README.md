@@ -27,4 +27,14 @@ as Questions (KPIS):
 
 Dash Board interaction :
 
--<a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fzulusanele626-byte%2FData-Analyst-DashBoard%2Frefs%2Fheads%2Fmain%2Fmy%2520own%2520project.xlsx&wdOrigin=BROWSELINK">Dash Board<a/>
+-<a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fzulusanele626-byte%2FData-Analyst-DashBoard%2Frefs%2Fheads%2Fmain%2Fmy%2520own%2520project.xlsx&wdOrigin=BROWSELINK"> view Dash<a/>
+
+#Process
+
+Data Collection – Obtained the bike sales dataset.
+Data Cleaning – Handled missing values, removed duplicates, and formatted fields in Excel.
+Data Transformation – Created new columns (e.g., age brackets, commute groups).
+Data Analysis – Explored relationships between income, age, gender, and purchases.
+Dashboard Creation – Built interactive charts and slicers (filters).
+Insight Generation – Identified trends influencing bike purchases.
+Visualization Enhancement – Improved layout, labels, and readability for better storytelling.
