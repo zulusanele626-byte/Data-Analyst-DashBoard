@@ -10,10 +10,17 @@ data set used :
 as Questions (KPIS):
 
 -Total Bikes Purchased – Number of customers who bought bikes.
+
 -Purchase Rate (%) – Percentage of customers who purchased bikes.
+
 -Average Income per Customer – Income comparison between buyers and non-buyers.
+
 -Customer Age Group Distribution – Purchases by age brackets.
+
 -Purchase by Commute Distance – Buying trends based on distance to work.
+
 -Gender-based Purchase Rate – Comparison of male vs female buyers.
+
 -Impact of Cars Owned – How car ownership affects bike purchases.
+
 -Home Ownership Influence – Buying patterns based on home ownership.
