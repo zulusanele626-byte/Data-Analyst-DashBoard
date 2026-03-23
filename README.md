@@ -1,2 +1,2 @@
-# Data-Analyst-DashBoard
-Interactive dashboard analyzing bike sales by income, age, and commute distance. It highlights customer purchasing patterns and allows filtering by marital status, cars, and home ownership to identify trends and insights
+
+To analyze bike sales data and identify key factors influencing customer purchasing behavior using interactive dashboards, enabling data-driven insights based on income, age, and commute distance
